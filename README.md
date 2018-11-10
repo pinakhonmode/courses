@@ -1,5 +1,22 @@
 # courses
+
 Honmode, Pinak October 31 2018 5:40 PM
+
+Chen Li, Sammy November 6, 2018 7:44PM
+
+Li, Hongyuan October 29, 2018 11:44AM
+
+Hiban, Jacob November 5, 2018 6:27 PM
+
+Shah, Chandni October 31, 2018 9:43 
+
+Raygade, Rohan October 31, 2018 9:10 PM 
+
+Jakhar, Dharam October 31 2018 10:20 PM
+
+Deshpande,Chinmay October 31 2018 10:15 PM
+
+Woodbury, Jennifer October 31 2018 
 
 Samuels, George October 30 2018 10:12 PM
 
@@ -492,3 +509,5 @@ Sullivan, Christina September 17, 2018, 11:00 PM
 Kapiti, Anthony September 17, 2018, 11:34 PM
 
 Patel, Neelkumar October 30,2018,6:42 PM
+
+Lin, Sarah Oct 31, 2018, 6:03pm
